@@ -7,4 +7,4 @@ Projects
 
 I created a simple GUI game using java.
 
-I'm learning bash now.
+I'm learning Linux now.
