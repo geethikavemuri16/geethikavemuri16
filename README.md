@@ -1,6 +1,6 @@
 Hi there 👋, I'm Geethika!
 
-I'm currently in my Sophomore year at Wright state university.
+I'm a Sophomore in IT and Cyber Security at Wright state university.
 
 ##
 Projects
